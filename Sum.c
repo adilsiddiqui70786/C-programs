@@ -1,4 +1,4 @@
-//Adding two integers using printf..
+//Adding two integers using printf...
 #include<stdio.h>
 int main()
 {
