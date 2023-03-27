@@ -1,4 +1,4 @@
-//Adding two integers using printf..
+//Adding two integers using printf
 #include<stdio.h>
 int main()
 {
@@ -7,5 +7,5 @@ int main()
    b=20;
    sum=a+b;
 
-    printf("The sum of a and b = %d",sum);
+  printf("The sum of a and b = %d",sum);
 }
